@@ -10,8 +10,10 @@ Cuando se suman dos vectores, se combinan sus componentes individuales: las comp
 No funciona porque el operador "+" no permite la suma entre un vector y un escalar
 
 ### Actividad 2
+
 #### Walker
 
+``` js
 let walker;
 
 function setup() {
@@ -38,9 +40,11 @@ class Walker {
     point(this.position.x, this.position.y);
   }
 }
+```
 
 #### pelota que rebota (2d)
 
+``` js
 let walker;
 
 function setup() {
@@ -67,7 +71,7 @@ class Walker {
     point(this.position.x, this.position.y);
   }
 }
-
+```
 
 ### Actividad 3
 
@@ -126,4 +130,5 @@ El principio "acceleration → velocity → position" muestra cómo el control d
 Motion 101 es un marco que permite construir sistemas complejos de movimiento a partir de reglas simples.
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
 
