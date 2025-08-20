@@ -21,7 +21,7 @@ https://editor.p5js.org/quertuy1/sketches/1fRo4SEyl
 
 
 ### Fricción
-```
+``` js
 let particles = [];
 let mu = 0.05; // coeficiente de fricción
 
@@ -193,5 +193,6 @@ class Particle {
 }
 
 ```
+
 
 
