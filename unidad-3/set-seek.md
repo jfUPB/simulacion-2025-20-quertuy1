@@ -5,6 +5,21 @@
 
 ## Actividad 9
 
+
+### Modelado de las Fuerzas
+En esta obra generativa se modelaron las fuerzas a partir de los conceptos de **Motion 101**. Cada partícula (representada como una esfera) se ve afectada por diferentes tipos de fuerzas:
+
+- **Atracción hacia el mouse:** se calculó una fuerza de aceleración que dirige las partículas hacia la posición del cursor. Esto genera un movimiento interactivo que responde en tiempo real al usuario.  
+- **Fuerza de fricción:** se implementó una reducción proporcional de la velocidad para evitar que las partículas se muevan indefinidamente y darle un comportamiento más natural.  
+- **Fuerza aleatoria:** pequeñas variaciones aleatorias en la aceleración aportan un comportamiento orgánico, haciendo que los movimientos no sean totalmente predecibles.
+
+### Relación Conceptual
+La fuerza es el motor que guía el comportamiento visual de la obra. Conceptualmente, cada partícula representa un “agente” sensible al entorno y al espectador. La interacción del usuario (posición del mouse) se traduce en una fuerza que modifica la aceleración, generando un paisaje visual dinámico y siempre cambiante.
+
+### Link
+https://editor.p5js.org/quertuy1/sketches/1fRo4SEyl
+
+
 ### Fricción
 ```
 let particles = [];
@@ -178,4 +193,5 @@ class Particle {
 }
 
 ```
+
 
