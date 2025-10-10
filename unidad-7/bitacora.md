@@ -510,3 +510,6 @@ function keyPressed() {
 ```
 https://editor.p5js.org/quertuy1/full/fBhXuvruz
 ![ROMPER](https://cdn.discordapp.com/attachments/716834985306488894/1426187634992218293/image.png?ex=68ea503d&is=68e8febd&hm=d96a7c22e336bc3c5eda39cd3c56562568772cb84df38bb4d93812a310089a4c)
+
+# AUTOEVALUACION 
+# 5.0
