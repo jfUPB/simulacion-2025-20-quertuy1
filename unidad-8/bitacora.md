@@ -58,7 +58,9 @@ Se Combina un sistema de partículas, una onda direccional controlada por vector
 
 ![Visual del proyecto](https://cdn.discordapp.com/attachments/716834985306488894/1433795978351087656/Captura_de_pantalla_2025-10-31_073047.png?ex=6905fe0f&is=6904ac8f&hm=43545bb3b9360c7ab6a4aa0729d4d5591617a4d2dbc5302fcaf25f896231fa6c&)
 
-![Proyecto](https://editor.p5js.org/quertuy1/sketches/7ql6rQjMV)
-![Proyecto](https://editor.p5js.org/quertuy1/sketches/rfxJn6R5t)
+[Proyecto](https://editor.p5js.org/quertuy1/sketches/7ql6rQjMV)
+
+[Proyecto](https://editor.p5js.org/quertuy1/sketches/rfxJn6R5t)
+
 
 
