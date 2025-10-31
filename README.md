@@ -88,4 +88,3 @@ tu propio proceso investigativo.
 ✔ El profesor es un mediador: mi papel es diseñar contextos de aprendizaje ricos en significado, conectados con tus intereses y realidades.  
 ✔ Se favorecen metodologías activas.
 
-
